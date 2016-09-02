@@ -1,0 +1,25 @@
+{
+  "name": "chapter7-web-dev-mongo-nodejs",
+  "version": "0.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jcossa",
+  "license": "ISC",
+  "dependencies": {
+    "MD5": "^1.3.0",
+    "async": "^2.0.1",
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "errorhandler": "^1.4.3",
+    "express": "^4.14.0",
+    "express3-handlebars": "^0.5.2",
+    "method-override": "^2.3.6",
+    "moment": "^2.14.1",
+    "mongoose": "^4.5.10",
+    "morgan": "^1.7.0",
+    "multer": "^1.2.0"
+  }
+}
